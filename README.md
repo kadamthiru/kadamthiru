@@ -1,39 +1,97 @@
 # Hi, I'm Kadam Thirumalesh 👋
 
-Backend Engineer with ~3 years of experience building scalable, production-grade systems.
+Backend Engineer specializing in Python, Django, PostgreSQL, Celery, and Redis.
 
-🏢 **Currently:** Software Analyst / Backend Engineer @ [Mitsogo](https://mitsogo.com)  
-📍 **Location:** Chennai, Tamil Nadu, India  
-📧 **Contact:** kadamthirumalthiru@gmail.com  
+I enjoy building scalable backend systems, designing APIs, optimizing databases, and developing asynchronous processing workflows.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python · SQL · TypeScript · JavaScript  
-**Backend:** Django · Django REST Framework · FastAPI  
-**Frontend:** Angular · HTML5 · CSS3  
-**Infrastructure:** Celery · Redis · Docker · Git  
-**Architecture:** Microservices · Async Workflows · SOLID Principles · OAuth 2.0  
+🏢 Software Analyst / Backend Engineer @ Mitsogo  
+📍 Chennai, Tamil Nadu, India  
+📧 kadamthirumalthiru@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### 🔧 [Device Policy Management Backend](https://github.com/kadamthiru/Device-Policy-Management-Backend)
-Enterprise-grade backend for versioned device policy management with immutable versioning, deterministic rollback, and concurrency-safe async execution using Django, Celery, and Redis.
-
-### ⚙️ [Task & Job Management Backend](https://github.com/kadamthiru/task-management-backend)
-High-volume async task scheduling backend with retry support, row-level locking, and full execution auditability — built with Django, Celery, PostgreSQL, and Redis.
-
----
-
-## 💼 What I've Built at Mitsogo
-- Engineered backend systems managing **10,000–50,000 macOS devices**
-- Delivered **40% reduction in system latency** via async pipelines and Redis caching
-- Built unified MDM vendor integrations (Jamf, Kandji, JumpCloud, Addigy)
+- 🔹 3 years of production experience in backend engineering
+- 🔹 Building enterprise device management platforms
+- 🔹 Experienced with Django, DRF, PostgreSQL, Redis, and Celery
+- 🔹 Implemented OAuth 2.0 integrations across multiple MDM vendors
+- 🔹 Interested in System Design, Distributed Systems, and Cloud Engineering
+- 🔹 Currently learning advanced System Design and Docker
 
 ---
 
-## 📫 Connect with me
+## 🛠 Tech Stack
+
+### Languages
+Python • SQL • TypeScript • JavaScript
+
+### Backend
+Django • Django REST Framework • FastAPI
+
+### Databases
+PostgreSQL • MySQL • Redis
+
+### Infrastructure & Tools
+Celery • Docker • Git • CI/CD
+
+### Core Areas
+REST API Design • OAuth 2.0 • Database Optimization • Async Processing • Distributed Systems
+
+---
+
+## 📌 Featured Projects
+
+### 🔧 Device Policy Management Backend
+
+Enterprise-grade backend for versioned device policy management with immutable versioning, rollback support, and concurrency-safe asynchronous execution.
+
+**Tech Stack:** Django, DRF, Celery, Redis, PostgreSQL
+
+🔗 Repository:
+https://github.com/kadamthiru/Device-Policy-Management-Backend
+
+---
+
+### ⚙️ Task & Job Management Backend
+
+Production-inspired asynchronous task execution platform supporting retry workflows, row-level locking, execution auditing, and task lifecycle management.
+
+**Highlights**
+- Celery workers
+- Redis message broker
+- PostgreSQL row-level locking
+- Retry with exponential backoff
+- Full execution audit trail
+
+**Tech Stack:** Django, DRF, Celery, Redis, PostgreSQL, Docker
+
+🔗 Repository:
+https://github.com/kadamthiru/task-management-backend
+
+---
+
+## 💼 Professional Highlights
+
+- Reduced async task execution time by 40% through Celery-based processing pipelines
+- Improved API response times by 25% through database and ORM optimization
+- Integrated multiple MDM vendors including Jamf, Kandji, JumpCloud, and Addigy
+- Built backend workflows supporting 5,000+ managed macOS devices
+
+---
+
+## 📚 Currently Learning
+
+- Advanced System Design
+- Distributed Systems
+- Docker & Containerization
+- Cloud Technologies
+- Scalable Backend Architecture
+
+---
+
+## 📫 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kadam-thirumalesh-524465238)
+
+GitHub: https://github.com/kadamthiru
